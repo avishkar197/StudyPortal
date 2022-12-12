@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+studyportals.com	TRUE	/	FALSE	1999999999	EonCBtD_TWf	YvCKfE62DM%40nV
+studyportals.com	TRUE	/	FALSE	1999999999	ENXAKPQJcGOY	yVw4LrgnDlWIK0
+studyportals.com	TRUE	/	FALSE	1999999999	kDwJXPNTREv	pvlisLOBf
+studyportals.com	TRUE	/	FALSE	1999999999	WIljQHO-SUTVa	jkXAzP_i0T6RrFa
+
